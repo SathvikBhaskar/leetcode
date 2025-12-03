@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SathvikBhaskar/leetcode/tree/master/0191-number-of-1-bits) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/SathvikBhaskar/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/SathvikBhaskar/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SathvikBhaskar/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SathvikBhaskar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/SathvikBhaskar/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SathvikBhaskar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/SathvikBhaskar/leetcode/tree/master/3516-find-closest-person) |
 ## Simulation
