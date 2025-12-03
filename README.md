@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/SathvikBhaskar/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SathvikBhaskar/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/SathvikBhaskar/leetcode/tree/master/0792-binary-search) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SathvikBhaskar/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
