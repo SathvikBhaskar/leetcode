@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SathvikBhaskar/leetcode/tree/master/0258-add-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/SathvikBhaskar/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/SathvikBhaskar/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SathvikBhaskar/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SathvikBhaskar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
