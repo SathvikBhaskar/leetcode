@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SathvikBhaskar/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SathvikBhaskar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SathvikBhaskar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/SathvikBhaskar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/SathvikBhaskar/leetcode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/SathvikBhaskar/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/SathvikBhaskar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
 | ------- |
