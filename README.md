@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SathvikBhaskar/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/SathvikBhaskar/leetcode/tree/master/0792-binary-search) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SathvikBhaskar/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SathvikBhaskar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SathvikBhaskar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SathvikBhaskar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SathvikBhaskar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/SathvikBhaskar/leetcode/tree/master/0792-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SathvikBhaskar/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SathvikBhaskar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SathvikBhaskar/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SathvikBhaskar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SathvikBhaskar/leetcode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
