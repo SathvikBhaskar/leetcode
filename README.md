@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/SathvikBhaskar/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SathvikBhaskar/leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/SathvikBhaskar/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SathvikBhaskar/leetcode/tree/master/0217-contains-duplicate) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SathvikBhaskar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SathvikBhaskar/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SathvikBhaskar/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/SathvikBhaskar/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SathvikBhaskar/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/SathvikBhaskar/leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/SathvikBhaskar/leetcode/tree/master/0509-fibonacci-number) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/SathvikBhaskar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SathvikBhaskar/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
