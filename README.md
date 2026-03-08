@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SathvikBhaskar/leetcode/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SathvikBhaskar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SathvikBhaskar/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1512-number-of-good-pairs](https://github.com/SathvikBhaskar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SathvikBhaskar/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SathvikBhaskar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SathvikBhaskar/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/SathvikBhaskar/leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/SathvikBhaskar/leetcode/tree/master/0509-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/SathvikBhaskar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SathvikBhaskar/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/SathvikBhaskar/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SathvikBhaskar/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SathvikBhaskar/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/SathvikBhaskar/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SathvikBhaskar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/SathvikBhaskar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SathvikBhaskar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/SathvikBhaskar/leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SathvikBhaskar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SathvikBhaskar/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SathvikBhaskar/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/SathvikBhaskar/leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
