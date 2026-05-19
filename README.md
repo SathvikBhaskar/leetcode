@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SathvikBhaskar/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/SathvikBhaskar/leetcode/tree/master/0048-rotate-image) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SathvikBhaskar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SathvikBhaskar/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SathvikBhaskar/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SathvikBhaskar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SathvikBhaskar/leetcode/tree/master/0344-reverse-string) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SathvikBhaskar/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
