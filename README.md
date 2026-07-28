@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SathvikBhaskar/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SathvikBhaskar/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0120-triangle](https://github.com/SathvikBhaskar/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SathvikBhaskar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SathvikBhaskar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SathvikBhaskar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SathvikBhaskar/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SathvikBhaskar/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/SathvikBhaskar/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SathvikBhaskar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SathvikBhaskar/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/SathvikBhaskar/leetcode/tree/master/0509-fibonacci-number) |
