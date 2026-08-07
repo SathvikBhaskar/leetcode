@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SathvikBhaskar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SathvikBhaskar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/SathvikBhaskar/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SathvikBhaskar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/SathvikBhaskar/leetcode/tree/master/3516-find-closest-person) |
@@ -360,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0494-target-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
