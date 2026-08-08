@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SathvikBhaskar/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/SathvikBhaskar/leetcode/tree/master/0231-power-of-two) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/SathvikBhaskar/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Array
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SathvikBhaskar/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SathvikBhaskar/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SathvikBhaskar/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/SathvikBhaskar/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SathvikBhaskar/leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/SathvikBhaskar/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SathvikBhaskar/leetcode/tree/master/0877-stone-game) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/SathvikBhaskar/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/SathvikBhaskar/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SathvikBhaskar/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SathvikBhaskar/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SathvikBhaskar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/SathvikBhaskar/leetcode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/SathvikBhaskar/leetcode/tree/master/1922-count-good-numbers) |
