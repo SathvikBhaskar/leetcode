@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/SathvikBhaskar/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/SathvikBhaskar/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SathvikBhaskar/leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SathvikBhaskar/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/SathvikBhaskar/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SathvikBhaskar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SathvikBhaskar/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/SathvikBhaskar/leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SathvikBhaskar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SathvikBhaskar/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SathvikBhaskar/leetcode/tree/master/0198-house-robber) |
