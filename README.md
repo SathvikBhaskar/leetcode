@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/SathvikBhaskar/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/SathvikBhaskar/leetcode/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/SathvikBhaskar/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/SathvikBhaskar/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/SathvikBhaskar/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SathvikBhaskar/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/SathvikBhaskar/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/SathvikBhaskar/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/SathvikBhaskar/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SathvikBhaskar/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
