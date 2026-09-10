@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SathvikBhaskar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SathvikBhaskar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SathvikBhaskar/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/SathvikBhaskar/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/SathvikBhaskar/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SathvikBhaskar/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/SathvikBhaskar/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SathvikBhaskar/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/SathvikBhaskar/leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/SathvikBhaskar/leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0494-target-sum) |
 ## Bucket Sort
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SathvikBhaskar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SathvikBhaskar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SathvikBhaskar/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SathvikBhaskar/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SathvikBhaskar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SathvikBhaskar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SathvikBhaskar/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SathvikBhaskar/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SathvikBhaskar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SathvikBhaskar/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SathvikBhaskar/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SathvikBhaskar/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
