@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SathvikBhaskar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SathvikBhaskar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SathvikBhaskar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SathvikBhaskar/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SathvikBhaskar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/SathvikBhaskar/leetcode/tree/master/3668-restore-finishing-order) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SathvikBhaskar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SathvikBhaskar/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SathvikBhaskar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SathvikBhaskar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/SathvikBhaskar/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SathvikBhaskar/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SathvikBhaskar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
