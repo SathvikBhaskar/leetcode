@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SathvikBhaskar/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SathvikBhaskar/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/SathvikBhaskar/leetcode/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/SathvikBhaskar/leetcode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/SathvikBhaskar/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SathvikBhaskar/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SathvikBhaskar/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SathvikBhaskar/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SathvikBhaskar/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/SathvikBhaskar/leetcode/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SathvikBhaskar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Counting
