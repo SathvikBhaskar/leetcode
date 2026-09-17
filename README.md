@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SathvikBhaskar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SathvikBhaskar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SathvikBhaskar/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/SathvikBhaskar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SathvikBhaskar/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SathvikBhaskar/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SathvikBhaskar/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SathvikBhaskar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SathvikBhaskar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SathvikBhaskar/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SathvikBhaskar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SathvikBhaskar/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/SathvikBhaskar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SathvikBhaskar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SathvikBhaskar/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SathvikBhaskar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/SathvikBhaskar/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SathvikBhaskar/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SathvikBhaskar/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SathvikBhaskar/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
