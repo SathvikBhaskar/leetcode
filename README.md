@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SathvikBhaskar/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SathvikBhaskar/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1920-build-array-from-permutation](https://github.com/SathvikBhaskar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SathvikBhaskar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SathvikBhaskar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SathvikBhaskar/leetcode/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/SathvikBhaskar/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/SathvikBhaskar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SathvikBhaskar/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SathvikBhaskar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
