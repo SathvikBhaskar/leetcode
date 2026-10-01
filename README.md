@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/SathvikBhaskar/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SathvikBhaskar/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SathvikBhaskar/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SathvikBhaskar/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/SathvikBhaskar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SathvikBhaskar/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/SathvikBhaskar/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/SathvikBhaskar/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SathvikBhaskar/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-largest-odd-number-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SathvikBhaskar/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SathvikBhaskar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/SathvikBhaskar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SathvikBhaskar/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SathvikBhaskar/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SathvikBhaskar/leetcode/tree/master/3904-smallest-stable-index-ii) |
