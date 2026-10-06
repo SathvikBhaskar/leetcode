@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/SathvikBhaskar/leetcode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/SathvikBhaskar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SathvikBhaskar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3884-first-matching-character-from-both-ends](https://github.com/SathvikBhaskar/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sliding Window
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SathvikBhaskar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3884-first-matching-character-from-both-ends](https://github.com/SathvikBhaskar/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
