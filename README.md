@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/SathvikBhaskar/leetcode/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SathvikBhaskar/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/SathvikBhaskar/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SathvikBhaskar/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SathvikBhaskar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/SathvikBhaskar/leetcode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SathvikBhaskar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SathvikBhaskar/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SathvikBhaskar/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/SathvikBhaskar/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SathvikBhaskar/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/SathvikBhaskar/leetcode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/SathvikBhaskar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SathvikBhaskar/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SathvikBhaskar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SathvikBhaskar/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sliding Window
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SathvikBhaskar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SathvikBhaskar/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SathvikBhaskar/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SathvikBhaskar/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
