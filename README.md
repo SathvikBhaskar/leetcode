@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SathvikBhaskar/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-largest-odd-number-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SathvikBhaskar/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SathvikBhaskar/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SathvikBhaskar/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SathvikBhaskar/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SathvikBhaskar/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SathvikBhaskar/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SathvikBhaskar/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SathvikBhaskar/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SathvikBhaskar/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/SathvikBhaskar/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SathvikBhaskar/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SathvikBhaskar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -670,4 +674,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SathvikBhaskar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SathvikBhaskar/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SathvikBhaskar/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SathvikBhaskar/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
