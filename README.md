@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SathvikBhaskar/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/SathvikBhaskar/leetcode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/SathvikBhaskar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SathvikBhaskar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/SathvikBhaskar/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SathvikBhaskar/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SathvikBhaskar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SathvikBhaskar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
