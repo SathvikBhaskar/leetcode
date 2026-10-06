@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/SathvikBhaskar/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SathvikBhaskar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SathvikBhaskar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3643-flip-square-submatrix-vertically](https://github.com/SathvikBhaskar/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/SathvikBhaskar/leetcode/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/3701-compute-alternating-sum) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SathvikBhaskar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3643-flip-square-submatrix-vertically](https://github.com/SathvikBhaskar/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SathvikBhaskar/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SathvikBhaskar/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SathvikBhaskar/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/SathvikBhaskar/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SathvikBhaskar/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting
 |  |
