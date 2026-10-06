@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SathvikBhaskar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SathvikBhaskar/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/SathvikBhaskar/leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SathvikBhaskar/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/SathvikBhaskar/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SathvikBhaskar/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/SathvikBhaskar/leetcode/tree/master/2942-find-words-containing-character) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SathvikBhaskar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SathvikBhaskar/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SathvikBhaskar/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SathvikBhaskar/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SathvikBhaskar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SathvikBhaskar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SathvikBhaskar/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SathvikBhaskar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SathvikBhaskar/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SathvikBhaskar/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SathvikBhaskar/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/SathvikBhaskar/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SathvikBhaskar/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SathvikBhaskar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SathvikBhaskar/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SathvikBhaskar/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/SathvikBhaskar/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SathvikBhaskar/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
